@@ -1,0 +1,15 @@
+.countryDetails{
+    /* display:flex; */
+    background-color: lightgray;
+    border: 2px solid royalblue;
+    width:300px;
+    margin: 25px 25px;
+    border-radius: 10px;
+    padding: auto;
+    text-align: center
+    
+}
+.countryDetails img{
+    width:99%;
+    
+}
